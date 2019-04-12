@@ -6,7 +6,7 @@
 | STRCH         | Accepted      | 100   |
 | FENCE         | Accepted      | 100   |
 | SUBREM        | Accepted      | 100   |
-| SJ1           | Trying        | 0     |
+| SJ1           | Accepted      | 100   |
 | KLPM          | Unattempt     | 0     |
 | XORMIN        | Unattempt     | 0     |
 | RECTARAN      | Unattempt     | 0     |
