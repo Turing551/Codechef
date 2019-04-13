@@ -7,6 +7,6 @@
 | FENCE         | Accepted      | 100   |
 | SUBREM        | Accepted      | 100   |
 | SJ1           | Accepted      | 100   |
-| KLPM          | TLE           | 0     |
+| KLPM          | Partial       | 25    |
 | XORMIN        | Unattempt     | 0     |
 | RECTARAN      | Unattempt     | 0     |
