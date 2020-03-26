@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<Putty>
+		<Node Type="0">
+			<DisplayName>HKFPS</DisplayName>
+			<Node Type="0">
+				<DisplayName>DEV</DisplayName>
+				<Node Type="1">
+					<SavedSession>Default Settings</SavedSession>
+					<DisplayName>DEV_x01tipe2hkbp1a_10.91.132.22</DisplayName>
+					<ServerName>10.91.132.22</ServerName>
+					<PuttyConType>0</PuttyConType>
+					<Port>0</Port>
+					<UserName>jboss</UserName>
+					<Password>mNeOj8bJv1mz2nyhHNC8Gw==</Password>
+					<PasswordDelay>0</PasswordDelay>
+					<CLParams>10.91.132.22 -l jboss -pw *****</CLParams>
+					<ScriptDelay>0</ScriptDelay>
+				</Node>
+				<Node Type="1">
+					<SavedSession>Default Settings</SavedSession>
+					<DisplayName>DEV_x01tipe2hkrt1a_10.91.132.20</DisplayName>
+					<ServerName>10.91.132.20</ServerName>
+					<PuttyConType>0</PuttyConType>
+					<Port>0</Port>
+					<UserName>mqm</UserName>
+					<Password>cy0QqFiXSm0=</Password>
+					<PasswordDelay>0</PasswordDelay>
+					<CLParams>10.91.132.20 -l mqm -pw *****</CLParams>
+					<ScriptDelay>0</ScriptDelay>
+				</Node>
+			</Node>
+			<Node Type="0">
+				<DisplayName>SIT</DisplayName>
+				<Node Type="1">
+					<SavedSession>Default Settings</SavedSession>
+					<DisplayName>10.91.132.2</DisplayName>
+					<ServerName>10.91.132.2</ServerName>
+					<PuttyConType>0</PuttyConType>
+					<Port>0</Port>
+					<UserName>support</UserName>
+					<Password>jo8dfG0LAPk=</Password>
+					<PasswordDelay>0</PasswordDelay>
+					<CLParams>10.91.132.2 -l support -pw *****</CLParams>
+					<ScriptDelay>0</ScriptDelay>
+				</Node>
+				<Node Type="1">
+					<SavedSession>Default Settings</SavedSession>
+					<DisplayName>SIT_x01bipe2hkbp1a_10.91.132.23</DisplayName>
+					<ServerName>10.91.132.23</ServerName>
+					<PuttyConType>0</PuttyConType>
+					<Port>0</Port>
+					<UserName>jboss</UserName>
+					<Password>/eNSBO+72gE=</Password>
+					<PasswordDelay>0</PasswordDelay>
+					<CLParams>10.91.132.23 -l jboss -pw *****</CLParams>
+					<ScriptDelay>0</ScriptDelay>
+				</Node>
+				<Node Type="1">
+					<SavedSession>Default Settings</SavedSession>
+					<DisplayName>SIT_x01bipe2hkgu1a_10.91.132.200</DisplayName>
+					<ServerName>10.91.132.200</ServerName>
+					<PuttyConType>0</PuttyConType>
+					<Port>0</Port>
+					<UserName>jboss</UserName>
+					<Password>OhqmzANao1M=</Password>
+					<PasswordDelay>0</PasswordDelay>
+					<CLParams>10.91.132.200 -l jboss -pw *****</CLParams>
+					<ScriptDelay>0</ScriptDelay>
+				</Node>
+				<Node Type="1">
+					<SavedSession>Default Settings</SavedSession>
+					<DisplayName>SIT_x01bipe2hkrt1a_10.91.132.21</DisplayName>
+					<ServerName>10.91.132.21</ServerName>
+					<PuttyConType>0</PuttyConType>
+					<Port>0</Port>
+					<UserName>jboss</UserName>
+					<Password>t8c3jqD4qwc=</Password>
+					<PasswordDelay>0</PasswordDelay>
+					<CLParams>10.91.132.21 -l jboss -pw *****</CLParams>
+					<ScriptDelay>0</ScriptDelay>
+				</Node>
+			</Node>
+			<Node Type="0" Expanded="1">
+				<DisplayName>UAT</DisplayName>
+				<Node Type="0">
+					<DisplayName>DB</DisplayName>
+				</Node>
+				<Node Type="0">
+					<DisplayName>JBOSS</DisplayName>
+					<Node Type="1">
+						<SavedSession>Default Settings</SavedSession>
+						<DisplayName>10.91.132.145</DisplayName>
+						<ServerName>10.91.132.145</ServerName>
+						<PuttyConType>0</PuttyConType>
+						<Port>0</Port>
+						<UserName>support</UserName>
+						<Password>GmyGNY678uw=</Password>
+						<PasswordDelay>0</PasswordDelay>
+						<CLParams>10.91.132.145 -l support -pw *****</CLParams>
+						<ScriptDelay>0</ScriptDelay>
+					</Node>
+					<Node Type="1">
+						<SavedSession>Default Settings</SavedSession>
+						<DisplayName>10.91.132.146</DisplayName>
+						<ServerName>10.91.132.146</ServerName>
+						<PuttyConType>0</PuttyConType>
+						<Port>0</Port>
+						<UserName>support</UserName>
+						<Password>WqukJy7Ximo=</Password>
+						<PasswordDelay>0</PasswordDelay>
+						<CLParams>10.91.132.146 -l support -pw *****</CLParams>
+						<ScriptDelay>0</ScriptDelay>
+					</Node>
+					<Node Type="1">
+						<SavedSession>Default Settings</SavedSession>
+						<DisplayName>10.91.139.136</DisplayName>
+						<ServerName>10.91.139.136</ServerName>
+						<PuttyConType>0</PuttyConType>
+						<Port>0</Port>
+						<UserName>support</UserName>
+						<Password>WqukJy7Ximo=</Password>
+						<PasswordDelay>0</PasswordDelay>
+						<CLParams>10.91.139.136 -l support -pw *****</CLParams>
+						<ScriptDelay>0</ScriptDelay>
+					</Node>
+					<Node Type="1">
+						<SavedSession>Default Settings</SavedSession>
+						<DisplayName>10.91.139.139</DisplayName>
+						<ServerName>10.91.139.139</ServerName>
+						<PuttyConType>0</PuttyConType>
+						<Port>0</Port>
+						<UserName>support</UserName>
+						<Password>WqukJy7Ximo=</Password>
+						<PasswordDelay>0</PasswordDelay>
+						<CLParams>10.91.139.139 -l support -pw *****</CLParams>
+						<ScriptDelay>0</ScriptDelay>
+					</Node>
+					<Node Type="1">
+						<SavedSession>Default Settings</SavedSession>
+						<DisplayName>10.91.132.148</DisplayName>
+						<ServerName>10.91.132.148</ServerName>
+						<PuttyConType>0</PuttyConType>
+						<Port>0</Port>
+						<UserName>support</UserName>
+						<Password>pRaQVPVBkyc=</Password>
+						<PasswordDelay>0</PasswordDelay>
+						<CLParams>10.91.132.148 -l support -pw *****</CLParams>
+						<ScriptDelay>0</ScriptDelay>
+					</Node>
+					<Node Type="1">
+						<SavedSession>Default Settings</SavedSession>
+						<DisplayName>10.91.132.15</DisplayName>
+						<ServerName>10.91.132.15</ServerName>
+						<PuttyConType>0</PuttyConType>
+						<Port>0</Port>
+						<UserName>support</UserName>
+						<Password>OQRATH+cb+w=</Password>
+						<PasswordDelay>0</PasswordDelay>
+						<CLParams>10.91.132.15 -l support -pw *****</CLParams>
+						<ScriptDelay>0</ScriptDelay>
+					</Node>
+					<Node Type="1">
+						<SavedSession>Default Settings</SavedSession>
+						<DisplayName>10.91.132.150</DisplayName>
+						<ServerName>10.91.132.150</ServerName>
+						<PuttyConType>4</PuttyConType>
+						<Port>60022</Port>
+						<UserName>anilkumarm</UserName>
+						<Password>OFWoa32CLuo=</Password>
+						<PasswordDelay>0</PasswordDelay>
+						<CLParams>10.91.132.150   -ssh -P 60022 -l anilkumarm</CLParams>
+						<ScriptDelay>0</ScriptDelay>
+					</Node>
+					<Node Type="1">
+						<SavedSession>Default Settings</SavedSession>
+						<DisplayName>10.91.132.151</DisplayName>
+						<ServerName>10.91.132.151</ServerName>
+						<PuttyConType>0</PuttyConType>
+						<Port>0</Port>
+						<UserName>support</UserName>
+						<Password>Nc8LOL2b+6s=</Password>
+						<PasswordDelay>0</PasswordDelay>
+						<CLParams>10.91.132.151 -l support -pw *****</CLParams>
+						<ScriptDelay>0</ScriptDelay>
+					</Node>
+				</Node>
+				<Node Type="0">
+					<DisplayName>MQ</DisplayName>
+					<Node Type="1">
+						<SavedSession>Default Settings</SavedSession>
+						<DisplayName>10.91.132.140</DisplayName>
+						<ServerName>10.91.132.140</ServerName>
+						<PuttyConType>0</PuttyConType>
+						<Port>0</Port>
+						<UserName>support</UserName>
+						<Password>RJ109g4eQSI=</Password>
+						<PasswordDelay>0</PasswordDelay>
+						<CLParams>10.91.132.140 -l support -pw *****</CLParams>
+						<ScriptDelay>0</ScriptDelay>
+					</Node>
+					<Node Type="1">
+						<SavedSession>Default Settings</SavedSession>
+						<DisplayName>10.91.132.141</DisplayName>
+						<ServerName>10.91.132.141</ServerName>
+						<PuttyConType>0</PuttyConType>
+						<Port>0</Port>
+						<UserName>support</UserName>
+						<Password>d1ryJrKwEYs=</Password>
+						<PasswordDelay>0</PasswordDelay>
+						<CLParams>10.91.132.141 -l support -pw *****</CLParams>
+						<ScriptDelay>0</ScriptDelay>
+					</Node>
+				</Node>
+				<Node Type="0">
+					<DisplayName>RMQ</DisplayName>
+					<Node Type="1">
+						<SavedSession>Default Settings</SavedSession>
+						<DisplayName>10.91.132.142</DisplayName>
+						<ServerName>10.91.132.142</ServerName>
+						<PuttyConType>0</PuttyConType>
+						<Port>0</Port>
+						<UserName>support</UserName>
+						<Password>MFPQQVLOIDg=</Password>
+						<PasswordDelay>0</PasswordDelay>
+						<CLParams>10.91.132.142 -l support -pw *****</CLParams>
+						<ScriptDelay>0</ScriptDelay>
+					</Node>
+					<Node Type="1">
+						<SavedSession>Default Settings</SavedSession>
+						<DisplayName>10.91.132.143</DisplayName>
+						<ServerName>10.91.132.143</ServerName>
+						<PuttyConType>0</PuttyConType>
+						<Port>0</Port>
+						<UserName>support</UserName>
+						<Password>Uq4k/d9k+Wk=</Password>
+						<PasswordDelay>0</PasswordDelay>
+						<CLParams>10.91.132.143 -l support -pw *****</CLParams>
+						<ScriptDelay>0</ScriptDelay>
+					</Node>
+				</Node>
+			</Node>
+		</Node>
+		<Node Type="0">
+			<DisplayName>IPE</DisplayName>
+			<Node Type="0">
+				<DisplayName>SIT</DisplayName>
+			</Node>
+			<Node Type="0">
+				<DisplayName>UAT</DisplayName>
+				<Node Type="1">
+					<SavedSession>Default Settings</SavedSession>
+					<DisplayName>10.92.146.105</DisplayName>
+					<ServerName>10.92.146.105</ServerName>
+					<PuttyConType>0</PuttyConType>
+					<Port>0</Port>
+					<UserName>uipein1</UserName>
+					<Password>jW8ZfQrbD/PwKgN7tZMkvg==</Password>
+					<PasswordDelay>0</PasswordDelay>
+					<CLParams>10.92.146.105 -l uipein1 -pw *****</CLParams>
+					<ScriptDelay>0</ScriptDelay>
+				</Node>
+				<Node Type="1">
+					<SavedSession>Default Settings</SavedSession>
+					<DisplayName>10.92.146.106</DisplayName>
+					<ServerName>10.92.146.106</ServerName>
+					<PuttyConType>0</PuttyConType>
+					<Port>0</Port>
+					<UserName>uipein1</UserName>
+					<Password>YQfssi5+ok5CWod8y8YM/A==</Password>
+					<PasswordDelay>0</PasswordDelay>
+					<CLParams>10.92.146.106 -l uipein1 -pw *****</CLParams>
+					<ScriptDelay>0</ScriptDelay>
+				</Node>
+				<Node Type="1">
+					<SavedSession>Default Settings</SavedSession>
+					<DisplayName>10.92.146.107</DisplayName>
+					<ServerName>10.92.146.107</ServerName>
+					<PuttyConType>0</PuttyConType>
+					<Port>0</Port>
+					<UserName>uipein1</UserName>
+					<Password>kYznVgJs5GIfVknd9zIbjg==</Password>
+					<PasswordDelay>0</PasswordDelay>
+					<CLParams>10.92.146.107 -l uipein1 -pw *****</CLParams>
+					<ScriptDelay>0</ScriptDelay>
+				</Node>
+				<Node Type="1">
+					<SavedSession>Default Settings</SavedSession>
+					<DisplayName>10.92.146.108</DisplayName>
+					<ServerName>10.92.146.108</ServerName>
+					<PuttyConType>0</PuttyConType>
+					<Port>0</Port>
+					<UserName>uipein1</UserName>
+					<Password>K9hadct/A/2fXCXMWYGXBg==</Password>
+					<PasswordDelay>0</PasswordDelay>
+					<CLParams>10.92.146.108 -l uipein1 -pw *****</CLParams>
+					<ScriptDelay>0</ScriptDelay>
+				</Node>
+			</Node>
+		</Node>
+	</Putty>
+</Servers>
